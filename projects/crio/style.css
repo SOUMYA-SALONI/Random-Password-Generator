@@ -1,0 +1,15 @@
+.frame{
+    background-color: rgba(86, 14, 14, 0.816);
+    color: azure;
+    text-align: center;
+}
+.custom-btn {
+    border-color: blue;
+}
+.btn-dark{
+    border-color: aquamarine;
+    margin-top: -0.25rem !important;
+}
+.mt-n1 {
+    margin-top: -0.25rem !important;
+  }
